@@ -15,7 +15,7 @@
 
 
 
-# To start:
+# To start(run locally):
     
     Client
     - npm install (in the react-client folder)
