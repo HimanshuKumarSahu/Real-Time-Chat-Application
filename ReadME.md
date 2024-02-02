@@ -9,9 +9,10 @@
 
 # ReactJS screen
 
-![img 1](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/24a58a39-5c43-4df9-bee1-7edced9d5a2f)
-![img 2](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/a008a1d6-d2f6-4846-8aff-c8f4b60b24aa)
-![img 3](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/048e8609-a35c-4df3-8a16-d78c3147e823)
+![img 1](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/5518a9bb-95a9-42e6-aa45-7e8ca0d193cd)
+![img 2](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/d17ab868-8ba2-4db7-a709-0a82423b5cb7)
+![img 3](https://github.com/HimanshuKumarSahu/Real-Time-Chat-Application/assets/125769379/33de2083-d42a-4103-81fc-191fb3b4796b)
+
 
 
 # To start:
