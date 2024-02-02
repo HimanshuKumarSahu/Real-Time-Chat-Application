@@ -1,5 +1,5 @@
 # Real Time Chat Application
-# Spring Boot Websocket Backend and Reactjs Frontend
+# Spring Boot Websocket Backend and Reactjs Client
 
 # Server:
     - Spring boot Websocket
